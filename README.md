@@ -1,6 +1,6 @@
 # Wan-Android
 
-基于 Jetpack Compose 构建的[玩 Android](https://www.wanandroid.com) 客户端，采用 MVVM 架构，多模块工程结构。
+基于 Jetpack Compose 构建的客户端，采用 MVVM 架构，多模块工程结构。
 
 ---
 
